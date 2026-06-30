@@ -7,4 +7,4 @@ Supports 1080p, and 1440p.
 
 Thanks for using SillyScope!
 
-!! MACRO IS STILL IN BETA, REPORT ANY BUGS IN https://discord.gg/y4rDvcBRP8 !!
+!! REPORT ANY BUGS IN https://discord.gg/y4rDvcBRP8 !!
